@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Projeto em Destaque
-- **[Gerenciador de Livros](link-do-seu-repositorio-aqui)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
+- **[Gerenciador de Livros](https://github.com/alan-s-s/Gerenciador-de-livros)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
 ---
   
    **Como me encontrar:** 
