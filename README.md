@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Alan! 👋
 
-<!--
-**alan-s-s/alan-s-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web. 
 
-Here are some ideas to get you started:
+### Sobre mim
+- Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tecnologias e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Projeto em Destaque
+- **[Gerenciador de Livros](link-do-seu-repositorio-aqui)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
+---
+  
+   **Como me encontrar:** 
