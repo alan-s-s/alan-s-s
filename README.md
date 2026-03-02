@@ -1,4 +1,4 @@
-# Olá, eu sou o Alan! 👋
+# Oi, eu sou o Alan! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web. 
 
