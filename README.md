@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.                      
 >
 >
->Enquanto lê o meu perfil, ouça algo: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U)
+>Enquanto lê o meu perfil, ouça algo: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U){target="blank"}
 
 ### Sobre mim
 - Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
