@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.                      
 >
 >
->Enquanto lê o meu perfil, ouça algo: <a  target= "_blank" href="https://www.youtube.com/watch?v=IFF0J5bC04U">Jazz de pinguins</a>
+>Enquanto lê o meu perfil, ouça algo: <a  href="https://www.youtube.com/watch?v=IFF0J5bC04U"  target= "_blank">Jazz de pinguins</a>
 
 
 ### Sobre mim
