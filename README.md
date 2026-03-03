@@ -1,6 +1,9 @@
 # Oi, eu sou o Alan! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web. 
+Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.                      
+>
+>
+>Enquanto lê o meu perfil, ouça algo: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U)
 
 ### Sobre mim
 - Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
@@ -14,14 +17,8 @@ Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.
 
 <br>
 
->[!Note]
->
->Enquanto lê o meu perfil, ouça algo: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U)
-
-<br>
-
 ### Projeto em Destaque
 - **[Gerenciador de Livros](https://github.com/alan-s-s/Gerenciador-de-livros)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
 ---
   
-   **Como me encontrar:** 
+   **Como me encontrar:** alangabriel311@gmail.com
