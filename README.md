@@ -12,6 +12,14 @@ Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+<br>
+
+>[!Note]
+>
+>Enquanto lê o meu perfil, ouça algo: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U)
+
+<br>
+
 ### Projeto em Destaque
 - **[Gerenciador de Livros](https://github.com/alan-s-s/Gerenciador-de-livros)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
 ---
