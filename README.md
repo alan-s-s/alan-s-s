@@ -1,10 +1,13 @@
 # Oi, eu sou o Alan! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.                      
->
->
->Enquanto lê o meu perfil, ouça algo: <a  href="https://www.youtube.com/watch?v=IFF0J5bC04U"  target= "_blank" rel="noopener">Jazz de pinguins</a>
 
+<br>
+
+>>Ouça algo enquanto lê o meu perfil: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
+>>Segure CTRL e clique no link para uma melhor experiência.
+
+<br>
 
 ### Sobre mim
 - Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
