@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.
 
 <br>
 
->>Ouça algo enquanto lê o meu perfil: [Jazz de pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
+>>Ouça algo enquanto lê o meu perfil: [Jazz dos pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
 >>Segure CTRL e clique no link para uma melhor experiência.
 
 <br>
