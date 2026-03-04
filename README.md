@@ -1,17 +1,17 @@
 # Oi, eu sou o Alan! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.                      
-
-<br>
-
->>Ouça algo enquanto lê o meu perfil: [Jazz dos pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
+>Ouça algo enquanto lê o meu perfil: [Jazz dos pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
 >>Segure CTRL e clique no link para uma melhor experiência.
 
 <br>
 
 ### Sobre mim
-- Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas. Construo aplicações web.
+Meu foco principal é o Gerenciador de Livros. O projeto está evoluindo de um CRUD básico para uma aplicação completa com autenticação e integração com serviços da AWS.</p>
 
+- Desenvolvendo projetos com **Node.js**, **Express** e **JavaScript**.
+   >Trilhas em andamento: Algoritmos em JavaScript e Estrutura de Dados,  Bancos de Dados Relacionais.
 
 ### Tecnologias e Ferramentas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -21,7 +21,8 @@ Estudante de Análise e Desenvolvimento de Sistemas. Consruo aplicações web.
 
 <br>
 
-### Projeto em Destaque
+
+### No que estou trabalhando?
 - **[Gerenciador de Livros](https://github.com/alan-s-s/Gerenciador-de-livros)**: Aplicação de gerenciamento de livros desenvolvida em Node.js. Arquitetado em banco de dados relacional e infraestrutura AWS.
 ---
   
