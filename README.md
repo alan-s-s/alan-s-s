@@ -1,6 +1,6 @@
 # Oi, eu sou o Alan! 👋
 
->Ouça algo enquanto lê o meu perfil: [Jazz dos pinguins](https://www.youtube.com/watch?v=IFF0J5bC04U).<br>
+>Ouça algo enquanto lê o meu perfil: [Pinguins no ritmo da escuridão](https://www.youtube.com/watch?v=UVSaiW7qPl0).<br>
 >>Segure CTRL e clique no link para uma melhor experiência.
 
 <br>
